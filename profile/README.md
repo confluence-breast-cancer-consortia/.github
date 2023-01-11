@@ -9,6 +9,6 @@ Broad scientific aims include:
 
 Feel free to explore our repositories and join the conversation by commenting on issues or contributing code. 
 
-To get involved, please see our [contributing guidelines](./contributing-guidelines.md) and take a look at our open issues in the repositories.
+To get involved, please see our [contributing guidelines](https://github.com/confluence-breast-cancer-consortia/.github/blob/main/profile/contributing-guidelines.md) and take a look at our open issues in the repositories.
 
 Thanks for visiting!
