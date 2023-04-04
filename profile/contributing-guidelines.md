@@ -1,6 +1,5 @@
 # Contributing Guidelines
 
-## Guidelines:
 * Repository Structure: Each analysis or pipeline should have its own GitHub repository. The repository should be organized clearly and consistently, with a README file explaining the purpose and contents of the repository.
 
 * Code Quality: All code in the repositories should be well-documented and adhere to best practices for code quality, such as proper use of version control, commenting, and testing.
